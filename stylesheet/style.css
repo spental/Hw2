@@ -1,15 +1,17 @@
 nav { 
     margin-bottom: 20px;
 }
+
+
+.row {
+    color: rgb(7, 7, 7);
+}
+
 body  {
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url("../pictures/smile.jpg")
-}
-
-.row {
-    color: rgb(7, 7, 7);
 }
 
 .col-8 { 
@@ -61,5 +63,6 @@ img {
 
 h1 {
     text-align: center;
-    color: rgb(233, 238, 165);
+    color: rgb(128, 128, 109);
+    
 }
