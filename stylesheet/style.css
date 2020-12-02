@@ -66,3 +66,9 @@ h1 {
     color: rgb(128, 128, 109);
     
 }
+
+#form_container {
+    padding: 15px 15px;
+    margin-top: 15px;
+    background: rgba(255,255,255,0.75);
+}
