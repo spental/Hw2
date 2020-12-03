@@ -7,15 +7,6 @@ nav {
     color: rgb(7, 7, 7);
 }
 
-body {
-    /* background-image: url("../pictures/beach.jpg"); */
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-/* contact body */
-/* indexbody */
 .index-body {
     background-image: url("../pictures/smile.jpg");
     background-attachment: fixed;
