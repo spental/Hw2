@@ -12,8 +12,21 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+<<<<<<< HEAD
 }
-
+/* contact body */
+/* indexbody */
+.index-body {
+    background-image: url("../pictures/smile.jpg")
+=======
+>>>>>>> 32545b15a7fe7f3cb44da11c34c987ef746b7282
+}
+.portfolio-body {
+    background-image: url("/pictures/beach.jpg");
+}
+.contact-body {
+    background-image: url("/pictures/bird.jpg");
+}
 .col-8 { 
     background-image: url("../pictures/white\ background.jpg");
     background-attachment: fixed;
@@ -21,7 +34,7 @@ body {
     background-size: cover;   
 }
 
-img {
+.img {
     border-radius: 15px 50px;
 }
 
