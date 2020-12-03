@@ -20,10 +20,10 @@ body {
     background-image: url("../pictures/smile.jpg");
 }
 .portfolio-body {
-    background-image: url("/pictures/beach.jpg");
+    background-image: url("../pictures/beach.jpg");
 }
 .contact-body {
-    background-image: url("/pictures/bird.jpg");
+    background-image: url("../pictures/bird.jpg");
 }
 .col-8 { 
     background-image: url("../pictures/white\ background.jpg");
