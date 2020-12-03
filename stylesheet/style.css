@@ -16,7 +16,7 @@ body {
 /* contact body */
 /* indexbody */
 .index-body {
-    background-image: url("../pictures/smile.jpg")
+    background-image: url("../pictures/smile.jpg");
 }
 .portfolio-body {
     background-image: url("/pictures/beach.jpg");
