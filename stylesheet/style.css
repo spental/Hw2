@@ -18,12 +18,21 @@ body {
 /* indexbody */
 .index-body {
     background-image: url("/pictures/smile.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .portfolio-body {
     background-image: url("/pictures/beach.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .contact-body {
     background-image: url("/pictures/bird.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .col-8 { 
     background-image: url("../pictures/white\ background.jpg");
