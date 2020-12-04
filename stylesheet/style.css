@@ -31,8 +31,19 @@ nav {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;   
+    
 }
 
+.col-9 {
+    background-image: url("../pictures/white\ background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.col-12{
+    text-align: center;
+} 
 .img {
     border-radius: 15px 50px;
 }
@@ -74,8 +85,15 @@ nav {
 }
 
 h1 {
-    text-align: center;
-    color: rgb(128, 128, 109);
+    align-items: center;
+    color: rgb(199, 96, 33);
     
 }
 
+.center {
+    margin: auto;
+}
+
+.container {
+    align-items: center;
+}
