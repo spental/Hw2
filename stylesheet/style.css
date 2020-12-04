@@ -64,6 +64,14 @@ nav {
     border-radius: 15px 50px;
 }
 
+#kings {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 0 10px 10px 0;
+    border-radius: 15px 50px;
+}
+
 h1 {
     align-items: center;
     color: rgb(199, 96, 33); 
