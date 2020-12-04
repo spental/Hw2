@@ -1,12 +1,4 @@
-nav { 
-    margin-bottom: 20px;
-}
-
-
-.row {
-    color: rgb(7, 7, 7);
-}
-
+/* background images */
 .index-body {
     background-image: url("../pictures/smile.jpg");
     background-attachment: fixed;
@@ -19,19 +11,21 @@ nav {
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
 }
+
 .contact-body {
     background-image: url("../pictures/bird.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
 }
+/* col designations */
 .col-8 { 
     background-image: url("../pictures/white\ background.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: cover;   
-    
+    background-size: cover;       
 }
 
 .col-9 {
@@ -44,16 +38,8 @@ nav {
 .col-12{
     text-align: center;
 } 
-.img {
-    border-radius: 15px 50px;
-}
 
-#king { 
-    width: 150px;
-    height: 150px;
-    float: left;
-    margin: 0 10px 10px 0;
-}
+/* header/nav designations */
 
 .headerbar {
     display: block;
@@ -63,6 +49,36 @@ nav {
     border-top: 20px;
     width: 20px;
 }
+
+nav { 
+    margin-bottom: 20px;
+}
+
+/* body designations */
+
+#king { 
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 0 10px 10px 0;
+    border-radius: 15px 50px;
+}
+
+h1 {
+    align-items: center;
+    color: rgb(199, 96, 33); 
+    text-align: center;   
+}
+
+.center {
+    margin: auto;
+}
+
+.container {
+    align-items: center;
+}
+
+/* footer designations */
 
 .footerinfo  {
     position: fixed;
@@ -84,16 +100,11 @@ nav {
     margin: 100% 0 0 0;
 }
 
-h1 {
-    align-items: center;
-    color: rgb(199, 96, 33);
-    
+.row {
+    color: rgb(7, 7, 7);
 }
 
-.center {
-    margin: auto;
+.img {
+    border-radius: 15px;
 }
 
-.container {
-    align-items: center;
-}
