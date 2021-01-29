@@ -1,0 +1,57 @@
+.btn {
+    background-color: rgb(203, 203, 6);
+    border: 1px solid black;
+    
+}
+
+.time-row {
+    border: black;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.row {
+    height: 70px;
+    border-top: 2px solid gray;
+    white-space: pre-wrap;
+}
+
+main {
+    margin: 5% 5% 5% 5%;
+}
+header.jumbotron {
+    align-content: center;
+    text-align: center;
+    background-color:#ffba00;
+}
+/* .HourByHour {
+    border-radius: 10px;
+    text-align: center; */
+
+/* .col-2.col-lg-1.time {
+    border: solid;
+    color: black; */
+
+textarea {
+    border: solid;
+    color: black;
+}
+
+.current {
+    background-color: rgb(180, 61, 17);
+    color: black;
+}
+.past {
+    background-color: yellow;
+    color: black;
+
+}
+.future {
+    background-color: green;
+    color: black;
+
+}
+.col-8-col-md-10 {
+    background-color: ;
+
+}
