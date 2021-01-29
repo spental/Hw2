@@ -114,7 +114,19 @@ h1 {
     border-radius: 15px;
 }
 
-#katryna {
-    
+#weatherApp {
+    width: 250px;
+    height: 250px;
 }
-
+/* 
+.responsive-iframe {
+    position: absolute;
+    top: 25%;
+    left: 0;
+    bottom: auto;
+    right: 0;
+    width: 30%;
+    height: 25%;
+    width: 33%;
+    height: 33%;
+  } */
